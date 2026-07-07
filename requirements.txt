@@ -1,0 +1,23 @@
+# Smart Campus AI v2 — Requirements
+# Install: pip install -r requirements.txt
+
+customtkinter==5.2.2
+Pillow==10.3.0
+opencv-python==4.9.0.80
+opencv-contrib-python==4.9.0.80
+numpy==1.26.4
+deepface==0.0.91
+fer==22.5.1
+tf-keras==2.16.0
+transformers==4.41.2
+torch==2.3.0
+pdfplumber==0.11.0
+PyMuPDF==1.24.5
+fpdf2==2.7.9
+pandas==2.2.2
+scikit-learn==1.5.0
+spacy==3.7.4
+nltk==3.8.1
+requests==2.32.3
+tqdm==4.66.4
+# face-recognition requires: pip install cmake dlib face-recognition
