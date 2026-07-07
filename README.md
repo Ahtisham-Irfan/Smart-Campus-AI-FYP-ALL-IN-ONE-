@@ -3,6 +3,17 @@
 
 ---
 
+## 🧩 Included Modules
+
+This repository is an all-in-one AI-powered campus automation system, containing the following integrated modules:
+
+- 👤 **Face Recognition Attendance** – Real-time webcam-based attendance using OpenCV
+- 😊 **Emotion Detection** – Live classroom emotion analysis
+- 📅 **AI Study Planner** – Generates personalised academic schedules using rule-based ML logic
+- 📄 **AI Document Summariser** – NLP-based summarisation of academic documents (NLTK)
+- 📋 **Resume Screening** – Automated resume screening and analytics dashboard
+- 🗄️ **Database Layer** – Complete MySQL/SQLite backend with student records and reports
+
 ## 📁 Project Structure
 
 ```
@@ -84,4 +95,4 @@ python main.py
 
 ---
 
-*Smart Campus AI | FYP Report 2022-AG-9158 | Supervised by Mr. Faheem Tariq*
+*Smart Campus AI | FYP Report M.Ahtisham Irfan*
