@@ -1,7 +1,6 @@
 # 🎓 Smart Campus AI
 ## Emotion-Aware Intelligent Campus Automation System
 
-
 ---
 
 ## 📁 Project Structure
